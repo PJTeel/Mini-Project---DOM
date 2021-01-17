@@ -13,15 +13,6 @@ function closeNav() {
 let url = 'https://api.thecatapi.com/v1/images/search?limit=1&breed_id='
 
 
-/*
-function getDog() {
-    fetch(url)
-    .then(response => response.json())
-   .then(json => img.src = json[0].url)
-//.then(json => console.log(json))
-   .catch(err => console.log('Something went wrong', err))
-}
-*/
 // Hook the anchor tags on menu to the REST API call and fetch data back and display in image tag
 function getBreed(breed)  {
   url = 'https://api.thecatapi.com/v1/images/search?limit=1&breed_id='
