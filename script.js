@@ -22,6 +22,12 @@ function getBreed(breed)  {
   else if (breed == 'American Bobtail'){
       url = url+'abob'
   }
+  else if (breed == 'Cyprus'){
+    url = url + 'cypr'
+  }
+  else if (breed == 'Pixie-bob') {
+    url = url + 'pixi'
+  }
 }
 
 function displayImages(anchor){
