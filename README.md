@@ -55,7 +55,7 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-In this project I have created a user interface to interact with TheCatApi API. I used a hamburger style menu to hold a list of cat different cat breeds. Select one of the breeds listed on the menu and a picture of that type of cat will be displayed.
+In this project I have created a user interface to interact with TheCatApi // Developer Experience API. I used a hamburger style menu to hold a list of different cat breeds. Select one of the breeds listed on the menu and a picture of that type of cat will be displayed.
 <!-- **To avoid retyping too much info. Do a search and replace with your text editor for the following:** -->
 <!-- `github_username`, `Twitter Account`, `repo_name`, `email`, `project_title`, `project_description` -->
 
@@ -97,9 +97,9 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+This site is useful for people wanting to know what a specific cat breed looks like.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+<!--_For more examples, please refer to the [Documentation](https://example.com)_
 
 
 
@@ -157,4 +157,4 @@ e-mail: pteel@msn.com, LinkedIn: https://www.linkedin.com/in/paula-teel-87a72a48
 <!--Acknowledgement-->
 ## Acknowledgements
 
-This project would not have been possible without the help of all the folks at General Assembly (https://generalassemb.ly/)
+This project would not have been possible without the help of all the folks at General Assembly (https://generalassemb.ly/) as well as my cohort teammates.
