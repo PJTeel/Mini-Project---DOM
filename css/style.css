@@ -58,3 +58,11 @@ body {
   .openbtn:hover {
     background-color: #444;
   } 
+
+  img {
+    height: 400px;
+    width: auto;
+    box-shadow: 10px 10px 32px -12px rgba(0,0,0,0.75);
+    margin-left: 3in;
+    margin-top: 1.25in;
+}
