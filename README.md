@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/PJTeel/Mini-Project---DOM">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/An_up-close_picture_of_a_curious_male_domestic_shorthair_tabby_cat.jpg/1200px-An_up-close_picture_of_a_curious_male_domestic_shorthair_tabby_cat.jpg" 
     width="80" height="80">
   </a>
@@ -55,16 +55,16 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-In this project I have created a user interface to interact with TheCatApi API. I used a hamburger style menu to hold a list of cat different cat breeds.
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+In this project I have created a user interface to interact with TheCatApi API. I used a hamburger style menu to hold a list of cat different cat breeds. Select one of the breeds listed on the menu and a picture of that type of cat will be displayed.
+<!-- **To avoid retyping too much info. Do a search and replace with your text editor for the following:** -->
+<!-- `github_username`, `Twitter Account`, `repo_name`, `email`, `project_title`, `project_description` -->
 
 
 ### Built With
 
-* []()
-* []()
-* []()
+* [GitHub](https://github.com/)
+* [TheCatAPI // Developer Experience](https://docs.thecatapi.com/)
+* [Visual Studio Code](https://code.visualstudio.com/)
 
 
 
@@ -85,7 +85,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/PJTeel/Mini-Project---DOM.git
    ```
 2. Install NPM packages
    ```sh
@@ -106,7 +106,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/PJTeel/Mini-Project---DOM/issues) for a list of proposed features (and known issues).
 
 
 
