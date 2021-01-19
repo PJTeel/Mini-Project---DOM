@@ -28,10 +28,10 @@ body {
   }
   
   /* When you mouse over the navigation links, change their color */
-  .sidepanel a:hover {
-    /* color: #f1f1f1; */
-    color:rgb(249, 235, 108);
-  }
+  .sidepanel a:hover { 
+    color: #f1f1f1;
+    color:rgb(249, 235, 108); 
+   } 
   
   /* Position and style the close button (top right corner) */
   .sidepanel .closebtn {
@@ -66,3 +66,4 @@ body {
     margin-left: 3in;
     margin-top: 1.25in;
 }
+
