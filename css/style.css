@@ -1,3 +1,14 @@
+/*@media screen and (min-width: 640px){
+  .flex-container {
+      display: flex;
+  }    
+}
+*/
+p {
+  font-size: 15pt;
+  text-align: left;
+}
+
 body {
         font-family: "Lato", sans-serif;
         background-color: rgb(249, 235, 108);
@@ -14,6 +25,7 @@ body {
     overflow-x: hidden; /* Disable horizontal scroll */
     padding-top: 60px; /* Place content 60px from the top */
     transition: 0.5s; /* 0.5 second transition effect to slide in the sidepanel */
+    flex: 0 1 300px;
   }
   
   /* The sidepanel links */
